@@ -1,0 +1,5 @@
+name: Pop
+version: 1.0
+main: us.imarco.main.Main
+author: iMarco
+description: Pop player!
